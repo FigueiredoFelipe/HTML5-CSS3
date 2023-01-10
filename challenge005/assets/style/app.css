@@ -1,0 +1,14 @@
+* {
+}
+
+.body {
+    min-height: 100vh;
+}
+
+.challenge-header {
+    background-color: rgb(125, 125, 125);
+}
+
+.icon {
+    max-width: 15px;
+}
