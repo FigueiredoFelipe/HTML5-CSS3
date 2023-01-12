@@ -1,0 +1,48 @@
+* {
+    background-color: #1d1d1d;
+    color: #ffffff;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.allVideos {
+    width: 1020px;
+    height: 315px;
+    margin: auto;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    width: 510px;
+    height: 315px;
+}
+
+div img {
+    width: 100%;
+    transform: scale(0.9);
+    transition: all ease 0.2s;
+}
+
+div img:hover {
+transform: scale(0.95);
+}
+
+.player-div {
+    color: aqua;
+}
+
+.center-iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.back-arrow {
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+}
