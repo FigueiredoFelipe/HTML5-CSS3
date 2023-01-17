@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: idroid;
+    src: url('/fonts/idroid.otf') format('truetype');
+}
+
+@font-face {
+    font-family: Rakesly;
+    src: url('/fonts/rakesly/rakesly\ rg.otf') format('truetype');
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4em;
+}
+
+header > h1 {
+    font-family: Rakesly, Arial, Helvetica, sans-serif;
+}
+
+main > h2, h3 {
+    font-family: idroid, Arial, Helvetica, sans-serif;
+
+}
