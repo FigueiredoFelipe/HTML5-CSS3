@@ -25,6 +25,7 @@
 html, body {
     background-color: var(--color-03);
     min-height: 100vh;
+    font-family: var(--fonte1);
 }
 
 header {
